@@ -1,0 +1,100 @@
+What are the specifications of [product]?
+Is [product] available in different colors/sizes?
+How do I use [product]?
+What is the warranty period for [product]?
+Are there any accessories available for [product]?
+Does [product] come with a user manual?
+Can [product] be used for [specific purpose]?
+What materials are used in [product]?
+How long does the battery last on [product]?
+Is [product] waterproof?
+How long does shipping take?
+Can I track my order?
+What are the shipping costs?
+Do you ship internationally?
+What shipping options are available?
+Can I change my shipping address?
+What should I do if my order hasn't arrived?
+Can I schedule a delivery date?
+Do you offer expedited shipping?
+How do I know if my order has been shipped?
+What payment methods do you accept?
+Is it safe to use my credit card on your site?
+Can I pay with multiple payment methods?
+Do you offer payment plans?
+How do I apply a discount code?
+Why was my payment declined?
+Can I get a copy of my receipt?
+How do I update my billing information?
+What is your refund policy?
+Can I pay with a gift card?
+What is your return policy?
+How do I return an item?
+Can I exchange an item?
+What should I do if I receive a damaged product?
+How long does it take to process a return?
+Do I need to pay for return shipping?
+Can I return an item to a physical store?
+What if the item I want to exchange is out of stock?
+How do I track my return?
+Can I return an item without a receipt?
+How do I create an account?
+I forgot my password, how do I reset it?
+How do I update my account information?
+How do I delete my account?
+Can I view my order history?
+How do I change my email address?
+How do I manage my subscription preferences?
+Why can't I log in to my account?
+How do I set up two-factor authentication?
+How do I recover a hacked account?
+How do I troubleshoot [product]?
+My [product] isn't working, what should I do?
+How do I install [software]?
+What should I do if [product] freezes?
+How do I update the firmware on [product]?
+Why is [product] not connecting to Wi-Fi?
+How do I back up my data?
+What are the system requirements for [software]?
+How do I reset [product] to factory settings?
+Why is [product] overheating?
+How do I contact customer support?
+What are your business hours?
+Where is your company located?
+How do I subscribe to your newsletter?
+Do you offer gift wrapping?
+How can I provide feedback on my experience?
+Are there any job openings at your company?
+Can I request a catalog?
+How do I become a vendor?
+What are your terms and conditions?
+Are there any current promotions?
+How do I redeem a discount code?
+Can I use multiple discount codes?
+Why isn't my discount code working?
+Do you offer student discounts?
+How do I sign up for your loyalty program?
+What are the benefits of your loyalty program?
+How do I check my loyalty points?
+Do you offer bulk order discounts?
+How do I get free shipping?
+How do I place an order?
+Can I cancel my order?
+How do I modify my order?
+How do I check my order status?
+Can I reorder a previous purchase?
+What should I do if I receive the wrong item?
+How do I add items to my order?
+Can I place an order over the phone?
+How do I apply a gift card to my order?
+What should I do if my order is delayed?
+How do I leave a review for [product]?
+How do I file a complaint?
+Who do I contact for unresolved issues?
+How do I provide feedback on customer service?
+Can I speak to a manager?
+How do I escalate my issue?
+How do you handle customer complaints?
+Where can I send suggestions?
+Can I update my review?
+How do you handle negative feedback?
